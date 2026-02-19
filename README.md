@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar</h1>
-<h3 align="center">An aspiring Full-Stack Developer from India, learning Java, JDBC, and database-driven applications 💻</h3>
+<h3 align="center">An aspiring Full-Stack Developer from India, learning Java, Flask,Django, and database-driven applications 💻</h3>
 
 - 🌱 I’m currently learning **Flask, MySQL, REST APIs, Dsa**
 
 - 👯 I’m looking to collaborate on **Flask apps , MySQL database apps**
-
-- 🤝 I’m looking for help with **Spring Boot integration with JDBC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theansh99999](https://github.com/theansh99999)
 
