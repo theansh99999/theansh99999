@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **work.anshkumarrai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lxM5p7SEYcvWLKGdx3bdBsOiJeI3lgEp/view?usp=sharing](https://drive.google.com/file/d/1lxM5p7SEYcvWLKGdx3bdBsOiJeI3lgEp/view?usp=sharing)
+- 📄 Know about my experiences[(https://drive.google.com/drive/folders/1TQRPab3bwgDwzSRnbGzDTFm1qr8-Fkmt)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
